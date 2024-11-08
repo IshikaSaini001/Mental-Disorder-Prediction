@@ -65,7 +65,7 @@ The machine learning model is stored in `model.pkl` and should be loaded by the 
 
 ### Image for Background
 
-An image named `bg_img` is included for the app's background. You can replace this with any image of your choice by placing it in the same directory and updating the file path in `app.py`.
+An image named `pexels-scottwebb-305821` is included for the app's background. You can replace this with any image of your choice by placing it in the same directory and updating the file path in `app.py`.
 
 ## Contributing
 
