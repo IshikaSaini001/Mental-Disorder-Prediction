@@ -33,6 +33,9 @@ Users are prompted to answer several questions related to their emotions, behavi
 ├── Mental-Disorders.csv   # Dataset used for training the model
 ├── pexels-scottwebb-305821.jpg  # Background image for the app (can be replaced)
 └── README.md              # Project description and setup instructions
+└── requirements.txt
+
+
 ```
 
 ## Installation
