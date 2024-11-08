@@ -24,7 +24,11 @@ Users are prompted to answer several questions related to their emotions, behavi
 
 ```plaintext
 .
-├── app.py                 # Main Streamlit application file
+├── app.py                # Main Streamlit application file
+├── mood_tracker.py
+├── view_all_data.py
+├── daily_journal.py
+├── workload_tracker.py                 
 ├── model.pkl              # Trained machine learning model
 ├── Mental-Disorders.csv   # Dataset used for training the model
 ├── pexels-scottwebb-305821.jpg  # Background image for the app (can be replaced)
