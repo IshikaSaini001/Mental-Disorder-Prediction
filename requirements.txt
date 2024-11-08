@@ -3,6 +3,4 @@ pandas
 numpy
 scikit-learn
 plotly 
-base64
-fpdf
 matplotlib
